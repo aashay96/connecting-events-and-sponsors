@@ -1,0 +1,6 @@
+nltk
+numpy
+sklearn
+xlrd
+xlwt
+csv
